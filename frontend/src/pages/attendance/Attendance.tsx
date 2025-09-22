@@ -1,0 +1,22 @@
+import React from 'react';
+import { Typography } from '@/components/ui';
+
+const Attendance: React.FC = () => {
+  return (
+    <div className="container mx-auto p-4">
+      <div className="bg-white dark:bg-gray-800 rounded-lg shadow p-6">
+        <Typography variant="h4" className="mb-6">
+          Attendance Management
+        </Typography>
+        <div className="text-gray-600 dark:text-gray-300">
+          <p>Attendance management feature will be implemented here.</p>
+          <p className="mt-2 text-sm text-gray-500 dark:text-gray-400">
+            This is a placeholder component. You can build your attendance tracking interface here.
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Attendance;

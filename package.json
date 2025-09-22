@@ -1,0 +1,12 @@
+{
+  "name": "tuition-management-system",
+  "version": "1.0.0",
+  "description": "A comprehensive tuition management system built with the MERN stack (MongoDB, Express.js, React.js, Node.js) with features for managing students, teachers, batches, attendance, assignments, and payments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
